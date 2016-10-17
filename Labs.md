@@ -124,7 +124,7 @@ Legenda:
 ### Grupa 2
 
 1. Adler Patryk
-1. Banaszuk David
+1. [Banaszek Dawid](https://github.com/dbanaszek/tar-1)
 1. Byszof Michał
 1. Cabaj Tomasz
 1. Cwilik Dawid
